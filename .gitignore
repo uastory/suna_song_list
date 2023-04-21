@@ -1,0 +1,20 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media/
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Other
+node_modules/
+
+
+environment.yml
+
